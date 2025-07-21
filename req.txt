@@ -1,4 +1,5 @@
 ipynb
+openai
 langchain 
 langchain-openai 
 langchain-groq 
