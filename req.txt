@@ -1,0 +1,15 @@
+ipynb
+langchain 
+langchain-openai 
+langchain-groq 
+langchain_ollama
+langchain_community 
+python-dotenv 
+streamlit
+bs4
+langchain_chroma
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+uuid
